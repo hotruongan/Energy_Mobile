@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native'
 const RegisterStyle = () => {
     return (
         <View>
-            <Text>andeptraigi</Text>
+            <Text>bguasa</Text>
         </View>
     )
 }
